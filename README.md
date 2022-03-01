@@ -17,7 +17,7 @@
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" alt="Follow me on Facebook">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" style="height:25px" alt="Follow me on Facebook">
     </a>
      <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
