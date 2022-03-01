@@ -16,11 +16,14 @@
 
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" style="height:25px" alt="Follow me on Facebook">
+    <a href="https://www.facebook.com/tamer0110/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" style="height:50px" alt="Follow me on Facebook">
     </a>
-     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+     <a href="https://www.linkedin.com/in/tamer-mansour-3567a419a/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" style="height:50px" alt="Connect on Linkedin">
+    </a>
+    <a>
+    <img href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="height:50px" alt="Follow me on Instagram">
     </a>
 </div>
 
