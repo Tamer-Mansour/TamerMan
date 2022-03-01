@@ -22,7 +22,7 @@
      <a href="https://www.linkedin.com/in/tamer-mansour-3567a419a/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" style="height:50px" alt="Connect on Linkedin">
     </a>
-    <a>
+    <a href="https://www.instagram.com/tamer_masnour01">
     <img href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="height:50px" alt="Follow me on Instagram">
     </a>
 </div>
