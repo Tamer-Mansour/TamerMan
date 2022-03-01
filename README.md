@@ -5,6 +5,7 @@
 <br>
 </div>
 ### Here is What I'm Working On! 👋
+
 - 🔭 I’m currently learning fullstack development.
 - 🌱 I’m currently learning MERN Stack.
 - 💻 I’m currently learning C#, unity 2D games, ASP.net.
@@ -13,11 +14,10 @@
 - 🎮 I love video games.
 - 📷 My hobby is editing video and images.
 
-<br>
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/640px-2021_Facebook_icon.svg.png" alt="Follow me on Facebook">
     </a>
      <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
