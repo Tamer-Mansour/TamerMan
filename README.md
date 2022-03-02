@@ -1,10 +1,12 @@
 <div align="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile!.</h1>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile!.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <br>
 </div>
 
- <h2>Here is What I'm Working On! 👋</h2>
+ <h2  align="center">Here is What I'm Working On! 👋</h2>
 
 - 🔭 I’m currently learning fullstack development.
 - 🌱 I’m currently learning MERN Stack.
