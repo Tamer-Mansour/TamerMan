@@ -8,13 +8,19 @@
 
  <h2  align="center">Here is What I'm Working On! 👋</h2>
 
-- 🔭 I’m currently learning fullstack development.
-- 🌱 I’m currently learning MERN Stack.
-- 💻 I’m currently learning C#, unity 2D games, ASP.net.
-- 💬 Ask me about any github topics, MongoDB, MySql, Spring boot, Java, React, JavaSecript.
-- 👯 I work best to be a good programming!.
-- 🎮 I love video games.
-- 📷 My hobby is editing video and images.
+- ✅ MERN Stack.
+- ✅ React.js ts
+- ✅ Spring Boot, Spring Microservices.
+- ✅ Django.
+- ✅ Flask.
+- ✅ GIT.
+- ✅ CSS.
+- ✅ Material UI.
+- ✅ Markdown.
+- ✅ Bootstrap.
+- ✅ MySql Server.
+- ✅ MongoDB.
+- ✅ MySql Workbensh.
 
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
@@ -35,7 +41,7 @@
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
+<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg](https://titrias.com/files/2022/04/typescript.png)" alt="Express.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
