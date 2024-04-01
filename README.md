@@ -1,26 +1,69 @@
+# Tamer Mansour 
+## Junior Developer
+
 <div align="center">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile!.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 <br>
 </div>
 
- <h2  align="center">Here is What I'm Working On! 👋</h2>
+---
+- **Phone:** 00970597598709
+- **Email:** tmansour720@gmail.com
+- **Location:** Ramallah, Palestine
 
-- ✅ MERN Stack.
-- ✅ React.js ts
-- ✅ Spring Boot, Spring Microservices.
-- ✅ Django.
-- ✅ Flask.
-- ✅ GIT.
-- ✅ CSS.
-- ✅ Material UI.
-- ✅ Markdown.
-- ✅ Bootstrap.
-- ✅ MySql Server.
-- ✅ MongoDB.
-- ✅ MySql Workbensh.
+## Overview
+I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on experience in software development. Eager to apply my skills and passion for technology to real-world projects, I possess strong problem-solving abilities and a dedication to continuous learning.
+
+## Work Experience
+### Software Development Trainee at AXSOS AG (2020 - Present)
+#### AXSOS Academy Portal
+- Developed software for AXSOS Academy Portal, a Management System, utilizing Java with Spring Boot for the backend and React JS for the frontend.
+- Collaborated with a team of trainees to deliver a user-friendly interface and enhance technical proficiency.
+
+#### APCOA Parking System
+- Contributed to the development of a comprehensive parking management system in Europe, utilizing Django and Docker for both frontend and backend tasks.
+- Gained insights into collaborative project management and deepened technical skills.
+
+#### AXSOS Algolab App
+- Led the development of AXSOS Algolab app, serving as a project for Axsos Academy and graduation project.
+- Implemented Spring Microservices for the backend and React for the frontend, integrating a Monaco editor and Piston execution engine for code challenges.
+
+## Education
+- **Bachelor's Degree in Information Technology** (2019 - 2024)  
+  Al-Quds University, Ramallah, Palestine  
+  - Dual Study Program with AXSOS AG
+  - Exchange Program at Mälardalen University, Sweden (2022 - 2023)
+
+## Skills
+### Programming Languages
+- ✅ Java: Advanced
+- ✅ Python: Intermediate
+- ✅ JavaScript: Advanced
+- ✅ TypeScript: Novice
+
+### Technical Skills
+- ✅ Spring Boot
+- ✅ Django
+- ✅ React JS & TypeScript
+- ✅ Node.js
+- ✅ Docker
+- ✅ MySQL, PostgreSQL, MongoDB
+- ✅ Version Control (Git)
+- ✅ API Testing (Postman, Swagger)
+
+### Other Skills
+- ✅ Problem Solving
+- ✅ Database Management (MySQL Workbench, PlSQL)
+- ✅ UI/UX Design
+- ✅ IT Support
+- ✅ Hardware Replacement
+
+## Languages
+- ✅ Arabic: Native or Bilingual Proficiency
+- ✅ English: Professional Working Proficiency
 
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
@@ -104,7 +147,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 
 -----
 Credits: [Tamer Mansour](https://github.com/Tamer-Mansour)
