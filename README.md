@@ -18,7 +18,7 @@
 I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on experience in software development. Eager to apply my skills and passion for technology to real-world projects, I possess strong problem-solving abilities and a dedication to continuous learning.
 
 ## Work Experience
-### Software Development Trainee at AXSOS AG (2020 - Present)
+### Software Development Trainee at AXSOS AG (2020 - 2024)
 #### AXSOS Academy Portal
 - Developed software for AXSOS Academy Portal, a Management System, utilizing Java with Spring Boot for the backend and React JS for the frontend.
 - Collaborated with a team of trainees to deliver a user-friendly interface and enhance technical proficiency.
