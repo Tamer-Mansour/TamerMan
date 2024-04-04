@@ -33,7 +33,7 @@ I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on ex
 
 ## Education
 - **Bachelor's Degree in Information Technology** (2019 - 2024)  
-  Al-Quds University, Ramallah, Palestine  
+  Al-Quds University, Palestine  
   - Dual Study Program with AXSOS AG
   - Exchange Program at Mälardalen University, Sweden (2022 - 2023)
 
