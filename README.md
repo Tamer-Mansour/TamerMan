@@ -1,5 +1,5 @@
 # Tamer Mansour 
-## Junior Developer
+## Full Stack Developer
 
 <div align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
@@ -43,11 +43,14 @@ I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on ex
 - ✅ Python: Intermediate
 - ✅ JavaScript: Advanced
 - ✅ TypeScript: Novice
+- ✅ C Sharp: Novice
 
 ### Technical Skills
 - ✅ Spring Boot
 - ✅ Django
 - ✅ React JS & TypeScript
+- ✅ Angular 17
+- ✅ Asp.net Core web api 17
 - ✅ Node.js
 - ✅ Docker
 - ✅ MySQL, PostgreSQL, MongoDB
