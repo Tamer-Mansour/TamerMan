@@ -50,7 +50,7 @@ I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on ex
 - ✅ Django
 - ✅ React JS & TypeScript
 - ✅ Angular 17
-- ✅ Asp.net Core web api 17
+- ✅ Asp.net Core web api
 - ✅ Node.js
 - ✅ Docker
 - ✅ MySQL, PostgreSQL, MongoDB
