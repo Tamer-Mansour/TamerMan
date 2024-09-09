@@ -15,9 +15,18 @@
 - **Location:** Ramallah, Palestine
 
 ## Overview
-I am a motivated Junior Developer with a Bachelor's degree in IT and hands-on experience in software development. Eager to apply my skills and passion for technology to real-world projects, I possess strong problem-solving abilities and a dedication to continuous learning.
+I am a Software Developer with a Bachelor's degree in IT and hands-on experience in software development. Eager to apply my skills and passion for technology to real-world projects, I possess strong problem-solving abilities and a dedication to continuous learning.
 
 ## Work Experience
+### Full Stack Asp.net Core & Angular At UNDP (United Nations Development Programme) ( 2024 - currently working )
+#### Mezan 3 support center
+-
+-
+
+#### Mezan 3
+-
+-
+
 ### Software Development Trainee at AXSOS AG (2020 - 2024)
 #### AXSOS Academy Portal
 - Developed software for AXSOS Academy Portal, a Management System, utilizing Java with Spring Boot for the backend and React JS for the frontend.
