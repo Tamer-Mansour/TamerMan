@@ -1,14 +1,4 @@
 # Tamer Mansour 
-## Full Stack Developer
-
-<div align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-<br>
-</div>
-
 ---
 - **Phone:** 00970597598709
 - **Email:** tmansour720@gmail.com
@@ -27,7 +17,7 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 -
 -
 
-### Software Development Trainee at AXSOS AG (2020 - 2024)
+### Dual Student Trainee at AXSOS AG (2020 - 2024)
 #### AXSOS Academy Portal
 - Developed software for AXSOS Academy Portal, a Management System, utilizing Java with Spring Boot for the backend and React JS for the frontend.
 - Collaborated with a team of trainees to deliver a user-friendly interface and enhance technical proficiency.
@@ -41,10 +31,12 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 - Implemented Spring Microservices for the backend and React for the frontend, integrating a Monaco editor and Piston execution engine for code challenges.
 
 ## Education
-- **Bachelor's Degree in Information Technology** (2019 - 2024)  
+- **Bachelor's Degree** (2019 - 2024)  
   Al-Quds University, Palestine  
-  - Dual Study Program with AXSOS AG
-  - Exchange Program at Mälardalen University, Sweden (2022 - 2023)
+  - Information Technology, Dual Study Program with AXSOS AG
+- **Exchange Program Bachelor's Degree** (2022 - 2023)
+   Mälardalen University, Sweden
+   - Software engineering
 
 ## Skills
 ### Programming Languages
@@ -53,23 +45,30 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 - ✅ JavaScript: Advanced
 - ✅ TypeScript: Novice
 - ✅ C Sharp: Novice
+- ✅ Sql: Novice
 
 ### Technical Skills
+- ✅ Data Modeling
+- ✅ Agile Methodologies
+- ✅ Software engineering
 - ✅ Spring Boot
+- ✅ Microservices structure
 - ✅ Django
 - ✅ React JS & TypeScript
-- ✅ Angular 17
+- ✅ Angular 17, 18
 - ✅ Asp.net Core web api
+- ✅ Clean Architecture Asp.net Core
 - ✅ Node.js
 - ✅ Docker
-- ✅ MySQL, PostgreSQL, MongoDB
+- ✅ MySQL, PostgreSQL, MongoDB, Sql Server
 - ✅ Version Control (Git)
-- ✅ API Testing (Postman, Swagger)
+- ✅ API Testing (Postman, Swagger, Django restframework)
 
 ### Other Skills
 - ✅ Problem Solving
-- ✅ Database Management (MySQL Workbench, PlSQL)
+- ✅ Database Management (MySQL Workbench, PlSQL, PgAdmin)
 - ✅ UI/UX Design
+- ✅ Adobe Creative cloud and Canva Design
 - ✅ IT Support
 - ✅ Hardware Replacement
 
