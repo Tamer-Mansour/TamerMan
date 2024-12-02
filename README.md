@@ -10,12 +10,12 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 ## Work Experience
 ### Full Stack Asp.net Core & Angular At UNDP (United Nations Development Programme) ( 2024 - currently working )
 #### Mezan 3 support center
--
--
+- Backend Development: Created APIs and designed the database to enhance the functionality and efficiency of the support center.
+- Collaboration: Worked closely with cross-functional teams to integrate backend services with frontend interfaces.
 
 #### Mezan 3
--
--
+- Frontend Development: Developed the frontend using Angular and DevExtreme to create a user-friendly interface.
+- UI/UX Enhancement: Implemented responsive design principles to improve user experience across devices.
 
 ### Dual Student Trainee at AXSOS AG (2020 - 2024)
 #### AXSOS Academy Portal
@@ -91,14 +91,16 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="React" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="React" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -132,6 +134,12 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tamer-mansour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
