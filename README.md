@@ -141,7 +141,11 @@ I am a Software Developer with a Bachelor's degree in IT and hands-on experience
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tamer-mansour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+## Most Languages used
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamer-mansour&layout=pie" align="center" /></div>  
+<br/>
 
 
 ## Connect with me  
